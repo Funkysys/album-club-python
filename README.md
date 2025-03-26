@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ```sh
 # Run the project
-python main.py  # Replace with the actual entry point if different
+python app.py  # Replace with the actual entry point if different
 ```
 
 ## Contributing
