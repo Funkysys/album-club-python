@@ -1,6 +1,6 @@
 # Album Club
 
-A small Python project to create and manage a list of albums.
+A small Python 3.13 project to create and manage a list of albums.
 
 ## Installation
 
